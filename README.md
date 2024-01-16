@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Subodh Mahara</h1>
 <h3 align="center">A passionate full stack developer from Nepal.</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/learnsomethingdifferent/learnsomethingdifferent/blob/9db95ef7826e191b444eaf40beff70bd532f41e4/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learnsomethingdifferent&label=Profile%20views&color=0e75b6&style=flat" alt="learnsomethingdifferent" /> </p>
 
 
