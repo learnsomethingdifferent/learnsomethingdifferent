@@ -1,5 +1,5 @@
 ![logo](https://github.com/learnsomethingdifferent/learnsomethingdifferent/blob/9db95ef7826e191b444eaf40beff70bd532f41e4/banner.jpg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Subodh+Mahara)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0E00F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Subodh+Mahara)](https://git.io/typing-svg)
 <h3 align="left">Full-stack developer with proficient in Html, Css, Tailwind, Js, React, Express, Node.js, Next.js, and Adobe Creative Suite from Nepal.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/learnsomethingdifferent/learnsomethingdifferent/blob/9db95ef7826e191b444eaf40beff70bd532f41e4/giphy.gif">
