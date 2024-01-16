@@ -1,3 +1,4 @@
+![logo](https://github.com/learnsomethingdifferent/learnsomethingdifferent/blob/9db95ef7826e191b444eaf40beff70bd532f41e4/banner.jpg)
 <h1 align="center">Hi 👋, I'm Subodh Mahara</h1>
 <h3 align="center">A passionate full stack developer from Nepal.</h3>
 
