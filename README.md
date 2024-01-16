@@ -1,6 +1,6 @@
 ![logo](https://github.com/learnsomethingdifferent/learnsomethingdifferent/blob/9db95ef7826e191b444eaf40beff70bd532f41e4/banner.jpg)
 <h1 align="center">Hi 👋, I'm Subodh Mahara</h1>
-<h3 align="center">A passionate full stack developer from Nepal.</h3>
+<h3 align="center">Full-stack developer with proficient in Html, Css, Tailwind, Js, React, Express, Node.js, Next.js, and Adobe Creative Suite from Nepal.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/learnsomethingdifferent/learnsomethingdifferent/blob/9db95ef7826e191b444eaf40beff70bd532f41e4/giphy.gif">
 
